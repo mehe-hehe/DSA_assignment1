@@ -23,7 +23,7 @@
 - State displayed in required format.
 
 ## GitHub Link
-[https://github.com/yourusername/assignment1_dsa](https://github.com/yourusername/assignment1_dsa)
+[https://github.com/mehe-hehe/DSA_assignment1](https://github.com/mehe-hehe/DSA_assignment1)
 
 ## Challenges Faced
 - Managing linked lists without STL for both Polynomial and TextEditor tasks.
